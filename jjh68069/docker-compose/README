@@ -1,0 +1,4 @@
+Instuctions to run project:
+
+Run "docker-compose up" from within the project directory
+Access webpage from 127.0.0.1:8001 in the browser
